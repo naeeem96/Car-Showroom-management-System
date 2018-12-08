@@ -1,0 +1,9 @@
+Project Title
+Car-Showroom-management-System
+
+Getting Started
+This is a Showroom management system. A car showroom can manage their showroom's daily task.  Admin can interact with customer. Admin can store cars details. they can store informations of imported cars. Customer can check cars list and details. They can buy their desire car by ordering. 
+
+Prerequisites
+Java IDE :  Netbeans/Eclipse 
+
